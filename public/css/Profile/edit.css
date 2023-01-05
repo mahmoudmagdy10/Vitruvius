@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(14 57 108) !important;
+}
+
+hr {
+    width: 66% !important;
+    margin: 1px auto !important;
+    height: 2px;
+    width: 59% !important;
+}
+
+.form-container {
+    display: grid;
+    place-content: center;
+    margin-top: 100px;
+    gap: 30px;
+}
+.form-2 {
+
+    background-color: #69b2d5ab;
+    box-shadow: 1px 1px 18px 3px #3e3e3e;
+    padding: 30px;
+    border-radius: 10px;
+}
+
+.info_icons i {
+    padding: 4px;
+}
